@@ -1,4 +1,4 @@
-#  PwC_Switzerland_Power BI_Virtual_Case_Experience
+#  PwC Switzerland PowerBI Virtual Case Experience
 In the simulation I:
 
  Strengthened my PowerBI skills to better understand clients and their data visualization needs.
